@@ -1,0 +1,14 @@
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.exe
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.deps.json
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.runtimeconfig.json
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.runtimeconfig.dev.json
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.pdb
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.Logic.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.Logic.pdb
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.csprojAssemblyReference.cache
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.AssemblyInfoInputs.cache
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.AssemblyInfo.cs
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.csproj.CopyComplete
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.pdb

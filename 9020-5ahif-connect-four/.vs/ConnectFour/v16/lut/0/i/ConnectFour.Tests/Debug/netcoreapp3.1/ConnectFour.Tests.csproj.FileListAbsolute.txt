@@ -1,0 +1,12 @@
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\b\ConnectFour.Tests\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\b\ConnectFour.Tests\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\b\ConnectFour.Tests\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\b\ConnectFour.Tests\Debug\netcoreapp3.1\ConnectFour.Tests.deps.json
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\b\ConnectFour.Tests\Debug\netcoreapp3.1\ConnectFour.Tests.runtimeconfig.json
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\b\ConnectFour.Tests\Debug\netcoreapp3.1\ConnectFour.Tests.runtimeconfig.dev.json
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\b\ConnectFour.Tests\Debug\netcoreapp3.1\ConnectFour.Tests.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\i\ConnectFour.Tests\Debug\netcoreapp3.1\ConnectFour.Tests.AssemblyInfoInputs.cache
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\i\ConnectFour.Tests\Debug\netcoreapp3.1\ConnectFour.Tests.AssemblyInfo.cs
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\i\ConnectFour.Tests\Debug\netcoreapp3.1\ConnectFour.Tests.csproj.CopyComplete
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\i\ConnectFour.Tests\Debug\netcoreapp3.1\ConnectFour.Tests.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\.vs\ConnectFour\v16\lut\0\i\ConnectFour.Tests\Debug\netcoreapp3.1\ConnectFour.Tests.csprojAssemblyReference.cache

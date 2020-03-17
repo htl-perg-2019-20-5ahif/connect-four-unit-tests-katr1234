@@ -1,0 +1,8 @@
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.Logic\bin\Debug\netstandard2.0\ConnectFour.Logic.deps.json
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.Logic\bin\Debug\netstandard2.0\ConnectFour.Logic.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.Logic\bin\Debug\netstandard2.0\ConnectFour.Logic.pdb
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.csprojAssemblyReference.cache
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.AssemblyInfoInputs.cache
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.AssemblyInfo.cs
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.dll
+D:\HTL Perg\5AHIF\C#\Homework\06_UnitTesting\connect-four-unit-tests-katr1234\9020-5ahif-connect-four\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.pdb

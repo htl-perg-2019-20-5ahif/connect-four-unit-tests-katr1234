@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConnectFour.UI/1.0.0": {
+        "dependencies": {
+          "ConnectFour.Logic": "1.0.0"
+        },
+        "runtime": {
+          "ConnectFour.UI.dll": {}
+        }
+      },
+      "ConnectFour.Logic/1.0.0": {
+        "runtime": {
+          "ConnectFour.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConnectFour.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConnectFour.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
